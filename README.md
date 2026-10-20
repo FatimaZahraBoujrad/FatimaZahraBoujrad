@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Fatima Zahra Boujrad</h1>
-<h3 align="center">AI & ML Enthusiast | Full-Stack Developer | Research Intern in Generative AI</h3>
+<h3 align="center">AI & ML Enthusiast | Data ENg </h3>
 
-- 🌱 I’m currently learning **Pytorch, Agentic AI**
+
 
 - 📫 How to reach me **boujrad.fatimazahra1@gmail.com**
 
