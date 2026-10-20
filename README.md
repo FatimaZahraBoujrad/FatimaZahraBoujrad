@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Fatima Zahra Boujrad</h1>
-<h3 align="center">AI & ML Enthusiast | Data ENg </h3>
+<h3 align="center">AI & ML Enthusiast | Data Eng </h3>
 
 
 
